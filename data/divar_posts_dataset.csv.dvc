@@ -1,0 +1,5 @@
+outs:
+- md5: 834c4f7ecb93e57e05078ea13c1ff00e
+  size: 267933697
+  hash: md5
+  path: divar_posts_dataset.csv
